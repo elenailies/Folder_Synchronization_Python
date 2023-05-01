@@ -6,4 +6,6 @@
 - file creation/copying/removal operations are logged to a file and to the console output
 - folder paths, synchronization interval and log file path are provided using the command line arguments
 
+Command line arguments example:  python main.py Source Replica 120 log.txt
+
 
