@@ -1,0 +1,5 @@
+[2023-05-01 11:14:58]Start session
+[2023-05-01 11:14:58]file test 1.3.txt is copied
+[2023-05-01 11:14:58]file test 1.4.txt is created
+[2023-05-01 11:14:58]directory Test2 is created
+[2023-05-01 11:14:58]file test2.txt is created

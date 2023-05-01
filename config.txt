@@ -1,0 +1,2 @@
+folder:C:\Users\user\PycharmProjects\pythonProject\Source
+backup:C:\Users\user\PycharmProjects\pythonProject\Replica
